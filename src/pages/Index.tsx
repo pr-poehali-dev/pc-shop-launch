@@ -40,7 +40,7 @@ const featuredPCs = [
       "64GB DDR5 5600MHz",
       "4TB NVMe SSD"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1593640495253-23196b27a87f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80"
+    imageUrl: "https://c.dns-shop.ru/thumb/st1/fit/0/0/e3aa1b69fc05a11efec24db18988f368/67e080a0461684a31a9c11e03f3d1106e8c9a653fe5d0ca2ad879065986f27ef.jpg.webp"
   }
 ];
 
