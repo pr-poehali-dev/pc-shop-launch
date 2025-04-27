@@ -17,11 +17,6 @@ const Navbar = () => {
               Магазин
             </Button>
           </Link>
-          <Link to="/contact">
-            <Button className="bg-gradient-to-r from-purple-600 to-blue-500 hover:from-purple-700 hover:to-blue-600 transition-all">
-              Связь
-            </Button>
-          </Link>
         </div>
       </div>
     </nav>

@@ -58,12 +58,9 @@ const Index = () => {
             <p className="text-xl text-gray-300 mb-8">
               Эксклюзивные компьютеры с RGB подсветкой, собранные специально для вас
             </p>
-            <div className="flex flex-col sm:flex-row justify-center gap-4">
+            <div className="flex justify-center">
               <Button className="bg-gradient-to-r from-purple-600 to-blue-500 hover:from-purple-700 hover:to-blue-600 text-lg py-6 px-8">
                 Выбрать компьютер
-              </Button>
-              <Button variant="outline" className="border-white/20 text-white hover:bg-white/10 text-lg py-6 px-8">
-                Узнать больше
               </Button>
             </div>
           </div>
