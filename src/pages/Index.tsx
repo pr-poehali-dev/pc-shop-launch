@@ -33,7 +33,7 @@ const featuredPCs = [
     id: 3,
     name: "Streamer Dream",
     description: "Идеальный ПК для стримеров и контент-мейкеров",
-    price: 129990,
+    price: 68000,
     specs: [
       "AMD Ryzen 9 7950X",
       "NVIDIA RTX 4080 16GB",

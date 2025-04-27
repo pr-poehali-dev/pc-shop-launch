@@ -17,7 +17,7 @@ const PCCard = ({ name, description, price, specs, imageUrl }: PCProps) => {
         <img 
           src={imageUrl} 
           alt={name} 
-          className="object-cover w-full h-full hover:scale-105 transition-transform duration-500"
+          className="object-contain w-full h-full hover:scale-105 transition-transform duration-500"
         />
       </div>
       <CardHeader>
